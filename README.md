@@ -2,8 +2,8 @@
 
 URL: [wagtail.org/django-ai](https://wagtail.org/ai-django/)
 
-- Survey: [AI and Developer Experience: Wagtail community survey](https://wagtail.org/blog/ai-and-developer-experience-wagtail-community-survey/)
-- Tomorrow’s workshop: [What themes would you like to discuss around Django and AI?](https://obwob.app/q1tghd3m/)
+- Wagtail survey: [AI and Developer Experience: Wagtail community survey](https://wagtail.org/blog/ai-and-developer-experience-wagtail-community-survey/)
+- Tomorrow’s workshop [on Django and AI](https://2026.djangocon.eu/speakers/JUFWZE/) - our question: [What themes would you like to discuss around Django and AI?](https://obwob.app/q1tghd3m/)
 
 ## Links
 
