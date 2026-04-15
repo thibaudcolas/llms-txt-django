@@ -1,5 +1,12 @@
 # llms.txt and Django
 
+URL: [wagtail.org/django-ai](https://wagtail.org/ai-django/)
+
+- Survey: [AI and Developer Experience: Wagtail community survey](https://wagtail.org/blog/ai-and-developer-experience-wagtail-community-survey/)
+- Tomorrow’s workshop: [What themes would you like to discuss around Django and AI?](https://obwob.app/q1tghd3m/)
+
+## Links
+
 - [The /llms.txt file – llms-txt](https://llmstxt.org/#existing-standards)
 - [About - Wagtail Guide](https://guide.wagtail.org/en-latest/about/)
 - How to use llms.txt
