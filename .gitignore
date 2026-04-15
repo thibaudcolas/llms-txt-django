@@ -1,0 +1,5 @@
+django/
+.venv/
+
+# Local Netlify folder
+.netlify

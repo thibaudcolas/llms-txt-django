@@ -1,0 +1,3290 @@
+{
+  "total_tokens": 10801338,
+  "llms_tokens": {
+    "llms.txt": 21380,
+    "llms-full.txt": 1518703
+  },
+  "doc_tokens": {
+    "releases/1.3.1": {
+      "source": 131,
+      "html": 1644,
+      "markdown": 119
+    },
+    "releases/1.8.13": {
+      "source": 109,
+      "html": 1854,
+      "markdown": 120
+    },
+    "releases/1.11.6": {
+      "source": 171,
+      "html": 2057,
+      "markdown": 189
+    },
+    "releases/5.2.9": {
+      "source": 511,
+      "html": 3088,
+      "markdown": 597
+    },
+    "releases/2.2.25": {
+      "source": 94,
+      "html": 1815,
+      "markdown": 87
+    },
+    "releases/1.11.18": {
+      "source": 138,
+      "html": 1895,
+      "markdown": 132
+    },
+    "topics/http/file-uploads": {
+      "source": 2901,
+      "html": 13401,
+      "markdown": 3025
+    },
+    "releases/1.3.3": {
+      "source": 108,
+      "html": 1639,
+      "markdown": 97
+    },
+    "ref/contrib/admin/filters": {
+      "source": 1742,
+      "html": 9113,
+      "markdown": 1766
+    },
+    "releases/5.0.14": {
+      "source": 178,
+      "html": 2224,
+      "markdown": 198
+    },
+    "releases/4.2.24": {
+      "source": 126,
+      "html": 2060,
+      "markdown": 157
+    },
+    "ref/contrib/gis/commands": {
+      "source": 693,
+      "html": 4345,
+      "markdown": 672
+    },
+    "topics/testing/advanced": {
+      "source": 7472,
+      "html": 30126,
+      "markdown": 7549
+    },
+    "ref/schema-editor": {
+      "source": 1515,
+      "html": 10008,
+      "markdown": 1485
+    },
+    "releases/1.6.4": {
+      "source": 160,
+      "html": 2070,
+      "markdown": 208
+    },
+    "releases/1.8.19": {
+      "source": 290,
+      "html": 2548,
+      "markdown": 273
+    },
+    "ref/contrib/gis/admin": {
+      "source": 131,
+      "html": 2213,
+      "markdown": 111
+    },
+    "ref/checks": {
+      "source": 13108,
+      "html": 39829,
+      "markdown": 13470
+    },
+    "releases/5.2.5": {
+      "source": 241,
+      "html": 2184,
+      "markdown": 277
+    },
+    "misc/api-stability": {
+      "source": 636,
+      "html": 2609,
+      "markdown": 639
+    },
+    "releases/1.7.6": {
+      "source": 258,
+      "html": 2267,
+      "markdown": 283
+    },
+    "ref/contrib/admin/javascript": {
+      "source": 571,
+      "html": 4147,
+      "markdown": 533
+    },
+    "releases/5.0.12": {
+      "source": 97,
+      "html": 1810,
+      "markdown": 98
+    },
+    "releases/6.0.1": {
+      "source": 586,
+      "html": 3322,
+      "markdown": 796
+    },
+    "releases/2.0.12": {
+      "source": 71,
+      "html": 1750,
+      "markdown": 73
+    },
+    "internals/contributing/new-contributors": {
+      "source": 1444,
+      "html": 4415,
+      "markdown": 1382
+    },
+    "releases/1.4.11": {
+      "source": 1032,
+      "html": 3407,
+      "markdown": 1038
+    },
+    "releases/2.0.4": {
+      "source": 322,
+      "html": 2395,
+      "markdown": 375
+    },
+    "topics/conditional-view-processing": {
+      "source": 2184,
+      "html": 7509,
+      "markdown": 2011
+    },
+    "releases/1.10.6": {
+      "source": 212,
+      "html": 2177,
+      "markdown": 249
+    },
+    "releases/1.5.1": {
+      "source": 227,
+      "html": 1855,
+      "markdown": 261
+    },
+    "releases/3.2.4": {
+      "source": 585,
+      "html": 3226,
+      "markdown": 692
+    },
+    "releases/1.7.3": {
+      "source": 973,
+      "html": 3709,
+      "markdown": 993
+    },
+    "releases/4.2.10": {
+      "source": 99,
+      "html": 1864,
+      "markdown": 92
+    },
+    "topics/forms/formsets": {
+      "source": 10317,
+      "html": 43019,
+      "markdown": 10034
+    },
+    "releases/1.9.1": {
+      "source": 810,
+      "html": 3959,
+      "markdown": 1031
+    },
+    "releases/1.8.10": {
+      "source": 882,
+      "html": 3587,
+      "markdown": 961
+    },
+    "releases/1.2.3": {
+      "source": 163,
+      "html": 1723,
+      "markdown": 166
+    },
+    "intro/reusable-apps": {
+      "source": 3247,
+      "html": 9318,
+      "markdown": 2740
+    },
+    "howto/delete-app": {
+      "source": 207,
+      "html": 1864,
+      "markdown": 236
+    },
+    "ref/contrib/flatpages": {
+      "source": 3285,
+      "html": 13160,
+      "markdown": 3018
+    },
+    "howto/outputting-csv": {
+      "source": 1337,
+      "html": 6518,
+      "markdown": 1428
+    },
+    "releases/4.2.29": {
+      "source": 483,
+      "html": 2898,
+      "markdown": 538
+    },
+    "howto/overriding-templates": {
+      "source": 1035,
+      "html": 4609,
+      "markdown": 1064
+    },
+    "releases/4.1.11": {
+      "source": 112,
+      "html": 1899,
+      "markdown": 103
+    },
+    "releases/2.2.14": {
+      "source": 82,
+      "html": 1797,
+      "markdown": 83
+    },
+    "releases": {
+      "source": 3680,
+      "html": 18220,
+      "markdown": 7807
+    },
+    "releases/1.0.2": {
+      "source": 515,
+      "html": 2399,
+      "markdown": 502
+    },
+    "internals/release-process": {
+      "source": 2329,
+      "html": 5741,
+      "markdown": 2356
+    },
+    "ref/views": {
+      "source": 1482,
+      "html": 6344,
+      "markdown": 1571
+    },
+    "releases/1.8.6": {
+      "source": 489,
+      "html": 2901,
+      "markdown": 625
+    },
+    "releases/1.8.1": {
+      "source": 906,
+      "html": 4240,
+      "markdown": 1215
+    },
+    "releases/3.2.19": {
+      "source": 227,
+      "html": 2283,
+      "markdown": 274
+    },
+    "releases/1.7.7": {
+      "source": 598,
+      "html": 2956,
+      "markdown": 623
+    },
+    "ref/forms/models": {
+      "source": 2286,
+      "html": 13297,
+      "markdown": 2232
+    },
+    "releases/2.0.2": {
+      "source": 490,
+      "html": 2808,
+      "markdown": 542
+    },
+    "topics/auth/default": {
+      "source": 15063,
+      "html": 59590,
+      "markdown": 15023
+    },
+    "releases/5.1.3": {
+      "source": 194,
+      "html": 2032,
+      "markdown": 234
+    },
+    "releases/1.6.2": {
+      "source": 461,
+      "html": 2605,
+      "markdown": 580
+    },
+    "releases/3.1.10": {
+      "source": 223,
+      "html": 2190,
+      "markdown": 248
+    },
+    "releases/4.2.17": {
+      "source": 315,
+      "html": 2645,
+      "markdown": 347
+    },
+    "topics/i18n/translation": {
+      "source": 17598,
+      "html": 67379,
+      "markdown": 17589
+    },
+    "topics/testing/tools": {
+      "source": 18996,
+      "html": 78574,
+      "markdown": 19296
+    },
+    "releases/3.1.8": {
+      "source": 168,
+      "html": 2077,
+      "markdown": 186
+    },
+    "releases/1.10.4": {
+      "source": 281,
+      "html": 2322,
+      "markdown": 323
+    },
+    "releases/1.4.9": {
+      "source": 168,
+      "html": 1941,
+      "markdown": 160
+    },
+    "ref/forms/formsets": {
+      "source": 153,
+      "html": 2558,
+      "markdown": 136
+    },
+    "releases/5.0.10": {
+      "source": 315,
+      "html": 2645,
+      "markdown": 347
+    },
+    "internals/contributing/accessibility": {
+      "source": 1641,
+      "html": 4013,
+      "markdown": 1494
+    },
+    "releases/6.0": {
+      "source": 5909,
+      "html": 21403,
+      "markdown": 7191
+    },
+    "ref/applications": {
+      "source": 4635,
+      "html": 16917,
+      "markdown": 4878
+    },
+    "releases/5.0": {
+      "source": 6474,
+      "html": 26870,
+      "markdown": 7519
+    },
+    "internals": {
+      "source": 86,
+      "html": 3792,
+      "markdown": 1163
+    },
+    "releases/1.9.5": {
+      "source": 485,
+      "html": 2828,
+      "markdown": 587
+    },
+    "releases/3.2.9": {
+      "source": 94,
+      "html": 1773,
+      "markdown": 96
+    },
+    "ref/class-based-views/mixins-date-based": {
+      "source": 2784,
+      "html": 14725,
+      "markdown": 2860
+    },
+    "ref/class-based-views/generic-editing": {
+      "source": 2448,
+      "html": 13358,
+      "markdown": 2762
+    },
+    "releases/1.4.20": {
+      "source": 288,
+      "html": 2134,
+      "markdown": 275
+    },
+    "releases/1.11.19": {
+      "source": 166,
+      "html": 2043,
+      "markdown": 157
+    },
+    "howto/error-reporting": {
+      "source": 3140,
+      "html": 12853,
+      "markdown": 3306
+    },
+    "ref/contrib/gis/geoip2": {
+      "source": 1479,
+      "html": 8033,
+      "markdown": 1551
+    },
+    "releases/1.11.1": {
+      "source": 1110,
+      "html": 4891,
+      "markdown": 1391
+    },
+    "releases/2.1.14": {
+      "source": 121,
+      "html": 1906,
+      "markdown": 118
+    },
+    "ref/contrib/gis/testing": {
+      "source": 854,
+      "html": 4271,
+      "markdown": 864
+    },
+    "releases/2.0.5": {
+      "source": 227,
+      "html": 2156,
+      "markdown": 253
+    },
+    "releases/2.2.19": {
+      "source": 151,
+      "html": 2050,
+      "markdown": 180
+    },
+    "ref/forms/validation": {
+      "source": 3728,
+      "html": 13337,
+      "markdown": 3782
+    },
+    "ref/models/indexes": {
+      "source": 1819,
+      "html": 7968,
+      "markdown": 1074
+    },
+    "intro": {
+      "source": 323,
+      "html": 2144,
+      "markdown": 409
+    },
+    "howto/custom-template-tags": {
+      "source": 11455,
+      "html": 41861,
+      "markdown": 11377
+    },
+    "releases/4.0.8": {
+      "source": 90,
+      "html": 1805,
+      "markdown": 82
+    },
+    "releases/2.1.9": {
+      "source": 313,
+      "html": 2436,
+      "markdown": 321
+    },
+    "ref/csrf": {
+      "source": 2338,
+      "html": 7577,
+      "markdown": 2376
+    },
+    "releases/1.6": {
+      "source": 12399,
+      "html": 38321,
+      "markdown": 13834
+    },
+    "releases/5.2.12": {
+      "source": 536,
+      "html": 3104,
+      "markdown": 612
+    },
+    "ref/contrib/gis": {
+      "source": 150,
+      "html": 4373,
+      "markdown": 1214
+    },
+    "howto/deployment/asgi/hypercorn": {
+      "source": 260,
+      "html": 2155,
+      "markdown": 255
+    },
+    "releases/3.0.12": {
+      "source": 124,
+      "html": 1989,
+      "markdown": 137
+    },
+    "releases/2.0.3": {
+      "source": 527,
+      "html": 3253,
+      "markdown": 567
+    },
+    "releases/2.2.16": {
+      "source": 312,
+      "html": 2507,
+      "markdown": 351
+    },
+    "releases/3.0.10": {
+      "source": 312,
+      "html": 2507,
+      "markdown": 351
+    },
+    "internals/howto-release-django": {
+      "source": 7832,
+      "html": 17501,
+      "markdown": 7719
+    },
+    "ref/files": {
+      "source": 46,
+      "html": 2162,
+      "markdown": 236
+    },
+    "intro/tutorial02": {
+      "source": 5972,
+      "html": 19550,
+      "markdown": 5736
+    },
+    "releases/4.1.1": {
+      "source": 666,
+      "html": 3253,
+      "markdown": 831
+    },
+    "ref/models/lookups": {
+      "source": 2236,
+      "html": 10068,
+      "markdown": 2138
+    },
+    "releases/2.2.21": {
+      "source": 116,
+      "html": 1880,
+      "markdown": 107
+    },
+    "releases/1.9.3": {
+      "source": 1161,
+      "html": 4362,
+      "markdown": 1320
+    },
+    "releases/5.1.7": {
+      "source": 330,
+      "html": 2602,
+      "markdown": 361
+    },
+    "releases/4.2.28": {
+      "source": 760,
+      "html": 4165,
+      "markdown": 888
+    },
+    "releases/2.2.7": {
+      "source": 243,
+      "html": 2346,
+      "markdown": 304
+    },
+    "ref/contrib/gis/ogrinspect": {
+      "source": 94,
+      "html": 2511,
+      "markdown": 47
+    },
+    "topics/auth/customizing": {
+      "source": 10334,
+      "html": 40005,
+      "markdown": 10738
+    },
+    "releases/4.0.5": {
+      "source": 160,
+      "html": 1968,
+      "markdown": 183
+    },
+    "releases/2.1": {
+      "source": 4334,
+      "html": 16291,
+      "markdown": 5121
+    },
+    "topics/db/models": {
+      "source": 13813,
+      "html": 50812,
+      "markdown": 14798
+    },
+    "releases/1.5": {
+      "source": 8113,
+      "html": 24017,
+      "markdown": 9038
+    },
+    "releases/2.2.13": {
+      "source": 287,
+      "html": 2311,
+      "markdown": 285
+    },
+    "releases/6.0.2": {
+      "source": 894,
+      "html": 4527,
+      "markdown": 1045
+    },
+    "ref/contrib/auth": {
+      "source": 6970,
+      "html": 34267,
+      "markdown": 6631
+    },
+    "releases/5.0.5": {
+      "source": 339,
+      "html": 2413,
+      "markdown": 392
+    },
+    "releases/1.5.2": {
+      "source": 758,
+      "html": 3685,
+      "markdown": 850
+    },
+    "howto/csp": {
+      "source": 753,
+      "html": 4417,
+      "markdown": 694
+    },
+    "releases/1.11.21": {
+      "source": 200,
+      "html": 2063,
+      "markdown": 210
+    },
+    "releases/3.2.17": {
+      "source": 144,
+      "html": 1938,
+      "markdown": 137
+    },
+    "releases/2.1.13": {
+      "source": 103,
+      "html": 1870,
+      "markdown": 115
+    },
+    "topics/class-based-views/intro": {
+      "source": 2722,
+      "html": 11207,
+      "markdown": 2921
+    },
+    "releases/2.0.1": {
+      "source": 385,
+      "html": 2631,
+      "markdown": 483
+    },
+    "howto/custom-shell": {
+      "source": 594,
+      "html": 3495,
+      "markdown": 618
+    },
+    "releases/1.11.5": {
+      "source": 606,
+      "html": 3099,
+      "markdown": 703
+    },
+    "internals/contributing/writing-code/working-with-git": {
+      "source": 2516,
+      "html": 6375,
+      "markdown": 2446
+    },
+    "ref/class-based-views/flattened-index": {
+      "source": 9405,
+      "html": 47186,
+      "markdown": 13060
+    },
+    "releases/1.9.4": {
+      "source": 74,
+      "html": 1633,
+      "markdown": 76
+    },
+    "ref/templates/api": {
+      "source": 9172,
+      "html": 38716,
+      "markdown": 8909
+    },
+    "topics/class-based-views/generic-editing": {
+      "source": 2488,
+      "html": 13412,
+      "markdown": 2851
+    },
+    "topics/composite-primary-key": {
+      "source": 1807,
+      "html": 8817,
+      "markdown": 1757
+    },
+    "releases/1.2.2": {
+      "source": 300,
+      "html": 2014,
+      "markdown": 301
+    },
+    "releases/1.11.7": {
+      "source": 162,
+      "html": 2113,
+      "markdown": 186
+    },
+    "releases/3.2.2": {
+      "source": 285,
+      "html": 2427,
+      "markdown": 328
+    },
+    "ref/models/class": {
+      "source": 634,
+      "html": 4017,
+      "markdown": 666
+    },
+    "releases/5.1.15": {
+      "source": 332,
+      "html": 2672,
+      "markdown": 386
+    },
+    "releases/1.11.14": {
+      "source": 124,
+      "html": 1887,
+      "markdown": 134
+    },
+    "releases/3.2.14": {
+      "source": 157,
+      "html": 2095,
+      "markdown": 157
+    },
+    "releases/4.2.16": {
+      "source": 226,
+      "html": 2282,
+      "markdown": 256
+    },
+    "releases/2.0.9": {
+      "source": 82,
+      "html": 1778,
+      "markdown": 83
+    },
+    "releases/2.2.12": {
+      "source": 79,
+      "html": 1777,
+      "markdown": 80
+    },
+    "releases/4.1.4": {
+      "source": 282,
+      "html": 2342,
+      "markdown": 333
+    },
+    "releases/3.1.12": {
+      "source": 310,
+      "html": 2570,
+      "markdown": 355
+    },
+    "releases/4.2.1": {
+      "source": 806,
+      "html": 3815,
+      "markdown": 995
+    },
+    "releases/1.4.3": {
+      "source": 561,
+      "html": 2436,
+      "markdown": 563
+    },
+    "releases/4.1.8": {
+      "source": 89,
+      "html": 1786,
+      "markdown": 91
+    },
+    "howto/upgrade-version": {
+      "source": 1163,
+      "html": 3884,
+      "markdown": 1151
+    },
+    "releases/1.8.12": {
+      "source": 152,
+      "html": 2001,
+      "markdown": 172
+    },
+    "howto": {
+      "source": 289,
+      "html": 2880,
+      "markdown": 440
+    },
+    "releases/1.8.18": {
+      "source": 312,
+      "html": 2362,
+      "markdown": 305
+    },
+    "ref/forms/widgets": {
+      "source": 8847,
+      "html": 44032,
+      "markdown": 8399
+    },
+    "search": {
+      "source": 0,
+      "html": 1079,
+      "markdown": 0
+    },
+    "ref/forms/api": {
+      "source": 16637,
+      "html": 71021,
+      "markdown": 16096
+    },
+    "internals/contributing/writing-code": {
+      "source": 300,
+      "html": 2205,
+      "markdown": 288
+    },
+    "topics/db/search": {
+      "source": 1297,
+      "html": 4407,
+      "markdown": 1223
+    },
+    "releases/5.1.9": {
+      "source": 356,
+      "html": 2643,
+      "markdown": 468
+    },
+    "topics/pagination": {
+      "source": 1143,
+      "html": 6718,
+      "markdown": 1123
+    },
+    "topics/security": {
+      "source": 3653,
+      "html": 8355,
+      "markdown": 3918
+    },
+    "intro/overview": {
+      "source": 2915,
+      "html": 11443,
+      "markdown": 2755
+    },
+    "howto/deployment/wsgi/apache-auth": {
+      "source": 1175,
+      "html": 4608,
+      "markdown": 994
+    },
+    "releases/4.2.15": {
+      "source": 411,
+      "html": 3280,
+      "markdown": 488
+    },
+    "releases/4.0.9": {
+      "source": 144,
+      "html": 1938,
+      "markdown": 137
+    },
+    "releases/1.8.7": {
+      "source": 691,
+      "html": 3535,
+      "markdown": 820
+    },
+    "releases/1.7.9": {
+      "source": 661,
+      "html": 3096,
+      "markdown": 711
+    },
+    "releases/3.0.11": {
+      "source": 97,
+      "html": 1822,
+      "markdown": 99
+    },
+    "contents": {
+      "source": 105,
+      "html": 28487,
+      "markdown": 12758
+    },
+    "releases/2.1.4": {
+      "source": 238,
+      "html": 2140,
+      "markdown": 273
+    },
+    "ref/contrib/postgres/aggregates": {
+      "source": 2994,
+      "html": 20262,
+      "markdown": 2794
+    },
+    "releases/1.4.19": {
+      "source": 131,
+      "html": 1861,
+      "markdown": 132
+    },
+    "releases/1.4.21": {
+      "source": 556,
+      "html": 2804,
+      "markdown": 590
+    },
+    "releases/4.2.26": {
+      "source": 276,
+      "html": 2746,
+      "markdown": 357
+    },
+    "ref/contrib/postgres/indexes": {
+      "source": 1646,
+      "html": 8154,
+      "markdown": 1554
+    },
+    "ref/contrib/postgres/functions": {
+      "source": 268,
+      "html": 2798,
+      "markdown": 257
+    },
+    "releases/3.1": {
+      "source": 8034,
+      "html": 28593,
+      "markdown": 9973
+    },
+    "topics/db/instrumentation": {
+      "source": 909,
+      "html": 5109,
+      "markdown": 895
+    },
+    "releases/3.1.14": {
+      "source": 94,
+      "html": 1799,
+      "markdown": 87
+    },
+    "releases/2.2.2": {
+      "source": 608,
+      "html": 3295,
+      "markdown": 708
+    },
+    "ref/logging": {
+      "source": 3262,
+      "html": 14331,
+      "markdown": 3460
+    },
+    "releases/2.2.20": {
+      "source": 104,
+      "html": 1832,
+      "markdown": 97
+    },
+    "releases/4.2.11": {
+      "source": 202,
+      "html": 2264,
+      "markdown": 256
+    },
+    "ref/templates/language": {
+      "source": 7286,
+      "html": 24284,
+      "markdown": 6972
+    },
+    "topics": {
+      "source": 132,
+      "html": 7783,
+      "markdown": 2741
+    },
+    "topics/db/aggregation": {
+      "source": 6737,
+      "html": 26267,
+      "markdown": 6389
+    },
+    "releases/3.2.18": {
+      "source": 128,
+      "html": 1881,
+      "markdown": 132
+    },
+    "releases/1.10": {
+      "source": 12815,
+      "html": 43944,
+      "markdown": 14395
+    },
+    "ref/settings": {
+      "source": 29194,
+      "html": 96401,
+      "markdown": 31811
+    },
+    "releases/1.2.1": {
+      "source": 77,
+      "html": 1590,
+      "markdown": 77
+    },
+    "releases/2.2.9": {
+      "source": 280,
+      "html": 2177,
+      "markdown": 287
+    },
+    "releases/4.1": {
+      "source": 6916,
+      "html": 24724,
+      "markdown": 8128
+    },
+    "releases/1.11.25": {
+      "source": 102,
+      "html": 1870,
+      "markdown": 115
+    },
+    "releases/2.2.4": {
+      "source": 795,
+      "html": 4271,
+      "markdown": 927
+    },
+    "ref/models/options": {
+      "source": 4036,
+      "html": 17685,
+      "markdown": 3498
+    },
+    "ref/contrib/gis/db-api": {
+      "source": 4866,
+      "html": 22561,
+      "markdown": 6390
+    },
+    "ref/contrib/gis/utils": {
+      "source": 83,
+      "html": 2042,
+      "markdown": 143
+    },
+    "ref/request-response": {
+      "source": 12620,
+      "html": 57007,
+      "markdown": 12830
+    },
+    "releases/1.4.13": {
+      "source": 471,
+      "html": 2488,
+      "markdown": 458
+    },
+    "howto/custom-lookups": {
+      "source": 3353,
+      "html": 13043,
+      "markdown": 3298
+    },
+    "releases/2.0.8": {
+      "source": 247,
+      "html": 2273,
+      "markdown": 274
+    },
+    "howto/windows": {
+      "source": 1201,
+      "html": 4184,
+      "markdown": 1199
+    },
+    "releases/3.2.11": {
+      "source": 387,
+      "html": 2693,
+      "markdown": 407
+    },
+    "releases/1.9.6": {
+      "source": 284,
+      "html": 2325,
+      "markdown": 337
+    },
+    "releases/4.2.19": {
+      "source": 97,
+      "html": 1810,
+      "markdown": 98
+    },
+    "releases/5.2": {
+      "source": 4260,
+      "html": 18563,
+      "markdown": 5491
+    },
+    "releases/1.11": {
+      "source": 8778,
+      "html": 30303,
+      "markdown": 10478
+    },
+    "releases/1.3.7": {
+      "source": 121,
+      "html": 1701,
+      "markdown": 106
+    },
+    "ref/contrib/gis/layermapping": {
+      "source": 2056,
+      "html": 8844,
+      "markdown": 2131
+    },
+    "releases/1.11.20": {
+      "source": 70,
+      "html": 1750,
+      "markdown": 73
+    },
+    "ref/class-based-views/mixins-simple": {
+      "source": 778,
+      "html": 4754,
+      "markdown": 674
+    },
+    "howto/deployment/checklist": {
+      "source": 2006,
+      "html": 8266,
+      "markdown": 2281
+    },
+    "releases/4.0.4": {
+      "source": 307,
+      "html": 2756,
+      "markdown": 360
+    },
+    "topics/external-packages": {
+      "source": 316,
+      "html": 2201,
+      "markdown": 310
+    },
+    "topics/auth": {
+      "source": 668,
+      "html": 2954,
+      "markdown": 656
+    },
+    "howto/csrf": {
+      "source": 2693,
+      "html": 11189,
+      "markdown": 2977
+    },
+    "releases/4.0": {
+      "source": 7097,
+      "html": 25110,
+      "markdown": 8431
+    },
+    "releases/2.1.5": {
+      "source": 340,
+      "html": 2369,
+      "markdown": 377
+    },
+    "releases/2.1.2": {
+      "source": 363,
+      "html": 2413,
+      "markdown": 418
+    },
+    "releases/1.11.27": {
+      "source": 279,
+      "html": 2177,
+      "markdown": 287
+    },
+    "ref/class-based-views/mixins-editing": {
+      "source": 1712,
+      "html": 9666,
+      "markdown": 1730
+    },
+    "releases/5.2.2": {
+      "source": 679,
+      "html": 3271,
+      "markdown": 749
+    },
+    "releases/2.1.7": {
+      "source": 71,
+      "html": 1750,
+      "markdown": 73
+    },
+    "releases/1.11.12": {
+      "source": 146,
+      "html": 1962,
+      "markdown": 156
+    },
+    "topics/serialization": {
+      "source": 5867,
+      "html": 24804,
+      "markdown": 6036
+    },
+    "topics/db/fixtures": {
+      "source": 1501,
+      "html": 6091,
+      "markdown": 1510
+    },
+    "releases/3.1.5": {
+      "source": 222,
+      "html": 2129,
+      "markdown": 246
+    },
+    "releases/3.1.2": {
+      "source": 315,
+      "html": 2406,
+      "markdown": 379
+    },
+    "releases/4.2.27": {
+      "source": 332,
+      "html": 2688,
+      "markdown": 386
+    },
+    "releases/2.1.3": {
+      "source": 226,
+      "html": 2198,
+      "markdown": 263
+    },
+    "intro/tutorial07": {
+      "source": 3643,
+      "html": 12271,
+      "markdown": 3384
+    },
+    "ref/paginator": {
+      "source": 2554,
+      "html": 13692,
+      "markdown": 2492
+    },
+    "releases/2.2.3": {
+      "source": 380,
+      "html": 2750,
+      "markdown": 456
+    },
+    "releases/2.1.1": {
+      "source": 480,
+      "html": 2791,
+      "markdown": 576
+    },
+    "releases/3.2.15": {
+      "source": 135,
+      "html": 1965,
+      "markdown": 132
+    },
+    "ref/contrib/gis/install/spatialite": {
+      "source": 889,
+      "html": 3827,
+      "markdown": 840
+    },
+    "releases/3.2.16": {
+      "source": 90,
+      "html": 1805,
+      "markdown": 82
+    },
+    "ref/contrib/contenttypes": {
+      "source": 5641,
+      "html": 25692,
+      "markdown": 5394
+    },
+    "releases/1.11.22": {
+      "source": 259,
+      "html": 2308,
+      "markdown": 300
+    },
+    "ref/django-admin": {
+      "source": 17239,
+      "html": 60797,
+      "markdown": 17165
+    },
+    "topics/class-based-views/generic-display": {
+      "source": 3487,
+      "html": 13345,
+      "markdown": 3570
+    },
+    "releases/3.2.23": {
+      "source": 165,
+      "html": 2030,
+      "markdown": 167
+    },
+    "releases/1.11.28": {
+      "source": 99,
+      "html": 1918,
+      "markdown": 102
+    },
+    "releases/2.0.11": {
+      "source": 167,
+      "html": 2043,
+      "markdown": 157
+    },
+    "releases/1.10.7": {
+      "source": 377,
+      "html": 2625,
+      "markdown": 385
+    },
+    "topics/testing/overview": {
+      "source": 3501,
+      "html": 10941,
+      "markdown": 3492
+    },
+    "releases/3.0.7": {
+      "source": 479,
+      "html": 2775,
+      "markdown": 517
+    },
+    "ref/class-based-views": {
+      "source": 508,
+      "html": 5653,
+      "markdown": 1356
+    },
+    "intro/install": {
+      "source": 600,
+      "html": 2750,
+      "markdown": 535
+    },
+    "topics/db/multi-db": {
+      "source": 6762,
+      "html": 25292,
+      "markdown": 6703
+    },
+    "releases/4.2.4": {
+      "source": 161,
+      "html": 1913,
+      "markdown": 180
+    },
+    "topics/db/examples": {
+      "source": 41,
+      "html": 1532,
+      "markdown": 44
+    },
+    "releases/1.3.2": {
+      "source": 121,
+      "html": 1646,
+      "markdown": 109
+    },
+    "releases/4.1.5": {
+      "source": 115,
+      "html": 1873,
+      "markdown": 121
+    },
+    "topics/http/urls": {
+      "source": 7540,
+      "html": 26090,
+      "markdown": 7752
+    },
+    "topics/install": {
+      "source": 2268,
+      "html": 5970,
+      "markdown": 2062
+    },
+    "releases/1.8.17": {
+      "source": 96,
+      "html": 1773,
+      "markdown": 99
+    },
+    "ref/urlresolvers": {
+      "source": 2267,
+      "html": 11497,
+      "markdown": 2090
+    },
+    "releases/4.2.6": {
+      "source": 513,
+      "html": 3039,
+      "markdown": 559
+    },
+    "releases/1.4.5": {
+      "source": 121,
+      "html": 1717,
+      "markdown": 106
+    },
+    "ref/validators": {
+      "source": 3142,
+      "html": 18872,
+      "markdown": 3281
+    },
+    "internals/contributing/committing-code": {
+      "source": 2361,
+      "html": 5303,
+      "markdown": 2332
+    },
+    "releases/5.2.10": {
+      "source": 160,
+      "html": 2039,
+      "markdown": 207
+    },
+    "topics/http/generic-views": {
+      "source": 19,
+      "html": 1443,
+      "markdown": 22
+    },
+    "topics/class-based-views": {
+      "source": 1322,
+      "html": 6099,
+      "markdown": 1406
+    },
+    "releases/1.4.16": {
+      "source": 130,
+      "html": 1866,
+      "markdown": 150
+    },
+    "releases/5.1.11": {
+      "source": 103,
+      "html": 1822,
+      "markdown": 116
+    },
+    "releases/1.8.11": {
+      "source": 74,
+      "html": 1633,
+      "markdown": 76
+    },
+    "releases/3.2.25": {
+      "source": 202,
+      "html": 2248,
+      "markdown": 256
+    },
+    "releases/1.6.7": {
+      "source": 113,
+      "html": 1856,
+      "markdown": 123
+    },
+    "releases/4.2.18": {
+      "source": 176,
+      "html": 2050,
+      "markdown": 192
+    },
+    "releases/1.4.2": {
+      "source": 542,
+      "html": 2641,
+      "markdown": 540
+    },
+    "releases/3.1.6": {
+      "source": 163,
+      "html": 2123,
+      "markdown": 184
+    },
+    "ref/class-based-views/mixins-multiple-object": {
+      "source": 1883,
+      "html": 8411,
+      "markdown": 1874
+    },
+    "topics/db/examples/many_to_one": {
+      "source": 1981,
+      "html": 10993,
+      "markdown": 1830
+    },
+    "releases/1.5.6": {
+      "source": 1082,
+      "html": 3647,
+      "markdown": 1103
+    },
+    "topics/http/decorators": {
+      "source": 925,
+      "html": 5904,
+      "markdown": 946
+    },
+    "releases/1.4.22": {
+      "source": 287,
+      "html": 2204,
+      "markdown": 302
+    },
+    "releases/1.8.3": {
+      "source": 1531,
+      "html": 5579,
+      "markdown": 1824
+    },
+    "ref/forms": {
+      "source": 64,
+      "html": 3250,
+      "markdown": 844
+    },
+    "howto/custom-file-storage": {
+      "source": 1181,
+      "html": 5455,
+      "markdown": 1308
+    },
+    "intro/tutorial01": {
+      "source": 2495,
+      "html": 7363,
+      "markdown": 2308
+    },
+    "ref/contrib/gis/geos": {
+      "source": 10566,
+      "html": 53727,
+      "markdown": 10322
+    },
+    "internals/organization": {
+      "source": 2865,
+      "html": 6019,
+      "markdown": 2895
+    },
+    "releases/1.7.2": {
+      "source": 1925,
+      "html": 7012,
+      "markdown": 2486
+    },
+    "howto/auth-remote-user": {
+      "source": 1336,
+      "html": 5272,
+      "markdown": 1432
+    },
+    "releases/1.10.2": {
+      "source": 273,
+      "html": 2405,
+      "markdown": 329
+    },
+    "releases/2.2.10": {
+      "source": 100,
+      "html": 1918,
+      "markdown": 102
+    },
+    "releases/1.4.12": {
+      "source": 84,
+      "html": 1840,
+      "markdown": 102
+    },
+    "releases/4.2.13": {
+      "source": 46,
+      "html": 1564,
+      "markdown": 40
+    },
+    "releases/1.1.3": {
+      "source": 456,
+      "html": 2260,
+      "markdown": 451
+    },
+    "releases/3.0": {
+      "source": 6153,
+      "html": 22252,
+      "markdown": 7532
+    },
+    "releases/1.7.1": {
+      "source": 1387,
+      "html": 5622,
+      "markdown": 1845
+    },
+    "releases/1.11.11": {
+      "source": 289,
+      "html": 2564,
+      "markdown": 273
+    },
+    "ref/models/expressions": {
+      "source": 12152,
+      "html": 53625,
+      "markdown": 11731
+    },
+    "releases/2.2.27": {
+      "source": 187,
+      "html": 2227,
+      "markdown": 174
+    },
+    "topics/cache": {
+      "source": 13323,
+      "html": 42404,
+      "markdown": 13884
+    },
+    "topics/performance": {
+      "source": 3544,
+      "html": 8941,
+      "markdown": 3586
+    },
+    "releases/1.6.5": {
+      "source": 605,
+      "html": 2909,
+      "markdown": 624
+    },
+    "releases/5.2.6": {
+      "source": 184,
+      "html": 2267,
+      "markdown": 221
+    },
+    "ref/migration-operations": {
+      "source": 5555,
+      "html": 25896,
+      "markdown": 5660
+    },
+    "howto/deployment/asgi/daphne": {
+      "source": 341,
+      "html": 2534,
+      "markdown": 352
+    },
+    "releases/3.1.1": {
+      "source": 857,
+      "html": 3863,
+      "markdown": 1053
+    },
+    "releases/3.0.9": {
+      "source": 129,
+      "html": 1904,
+      "markdown": 151
+    },
+    "releases/1.5.7": {
+      "source": 84,
+      "html": 1840,
+      "markdown": 102
+    },
+    "releases/3.1.11": {
+      "source": 112,
+      "html": 1874,
+      "markdown": 121
+    },
+    "releases/2.0": {
+      "source": 7746,
+      "html": 27085,
+      "markdown": 8735
+    },
+    "releases/2.2.28": {
+      "source": 212,
+      "html": 2466,
+      "markdown": 249
+    },
+    "releases/3.0.4": {
+      "source": 338,
+      "html": 2542,
+      "markdown": 401
+    },
+    "ref/class-based-views/generic-date-based": {
+      "source": 4917,
+      "html": 26086,
+      "markdown": 5968
+    },
+    "topics/db/tablespaces": {
+      "source": 677,
+      "html": 3872,
+      "markdown": 746
+    },
+    "ref/exceptions": {
+      "source": 2321,
+      "html": 15057,
+      "markdown": 2378
+    },
+    "ref/files/uploads": {
+      "source": 1950,
+      "html": 9188,
+      "markdown": 1836
+    },
+    "releases/3.2.10": {
+      "source": 153,
+      "html": 2023,
+      "markdown": 154
+    },
+    "faq/install": {
+      "source": 925,
+      "html": 3243,
+      "markdown": 926
+    },
+    "ref/models/querysets": {
+      "source": 37172,
+      "html": 152172,
+      "markdown": 35515
+    },
+    "releases/1.11.4": {
+      "source": 422,
+      "html": 2883,
+      "markdown": 463
+    },
+    "releases/2.2.18": {
+      "source": 124,
+      "html": 1989,
+      "markdown": 137
+    },
+    "releases/1.11.15": {
+      "source": 168,
+      "html": 2013,
+      "markdown": 178
+    },
+    "howto/deployment/wsgi/modwsgi": {
+      "source": 2087,
+      "html": 6566,
+      "markdown": 1849
+    },
+    "releases/3.2.20": {
+      "source": 118,
+      "html": 1954,
+      "markdown": 108
+    },
+    "releases/1.8.2": {
+      "source": 648,
+      "html": 3261,
+      "markdown": 756
+    },
+    "ref/models/conditional-expressions": {
+      "source": 2615,
+      "html": 16687,
+      "markdown": 2581
+    },
+    "releases/1.11.17": {
+      "source": 113,
+      "html": 1847,
+      "markdown": 114
+    },
+    "ref/contrib/gis/deployment": {
+      "source": 168,
+      "html": 1850,
+      "markdown": 153
+    },
+    "misc": {
+      "source": 70,
+      "html": 1952,
+      "markdown": 241
+    },
+    "ref/contrib/gis/forms-api": {
+      "source": 1781,
+      "html": 10492,
+      "markdown": 1281
+    },
+    "releases/1.4.1": {
+      "source": 121,
+      "html": 1630,
+      "markdown": 109
+    },
+    "releases/2.2.11": {
+      "source": 173,
+      "html": 2166,
+      "markdown": 190
+    },
+    "ref/contrib/admin/actions": {
+      "source": 3501,
+      "html": 16740,
+      "markdown": 3725
+    },
+    "ref/contrib/gis/gdal": {
+      "source": 17345,
+      "html": 81182,
+      "markdown": 16685
+    },
+    "ref/templates": {
+      "source": 154,
+      "html": 2434,
+      "markdown": 489
+    },
+    "releases/3.2": {
+      "source": 7440,
+      "html": 27072,
+      "markdown": 9325
+    },
+    "releases/3.2.13": {
+      "source": 281,
+      "html": 2683,
+      "markdown": 326
+    },
+    "ref/contrib/gis/feeds": {
+      "source": 599,
+      "html": 4555,
+      "markdown": 598
+    },
+    "releases/1.10.8": {
+      "source": 139,
+      "html": 1887,
+      "markdown": 134
+    },
+    "releases/3.2.6": {
+      "source": 145,
+      "html": 1907,
+      "markdown": 153
+    },
+    "releases/1.9.10": {
+      "source": 148,
+      "html": 1928,
+      "markdown": 156
+    },
+    "releases/1.4.8": {
+      "source": 295,
+      "html": 2429,
+      "markdown": 334
+    },
+    "releases/1.7": {
+      "source": 18303,
+      "html": 57945,
+      "markdown": 20596
+    },
+    "ref/class-based-views/mixins": {
+      "source": 80,
+      "html": 1660,
+      "markdown": 102
+    },
+    "releases/5.1.5": {
+      "source": 213,
+      "html": 2201,
+      "markdown": 237
+    },
+    "releases/1.2.7": {
+      "source": 142,
+      "html": 1655,
+      "markdown": 130
+    },
+    "releases/3.2.24": {
+      "source": 99,
+      "html": 1864,
+      "markdown": 92
+    },
+    "releases/4.1.12": {
+      "source": 257,
+      "html": 2288,
+      "markdown": 292
+    },
+    "releases/5.0.4": {
+      "source": 305,
+      "html": 2358,
+      "markdown": 337
+    },
+    "releases/1.5.10": {
+      "source": 76,
+      "html": 1755,
+      "markdown": 79
+    },
+    "intro/tutorial06": {
+      "source": 1248,
+      "html": 4549,
+      "markdown": 1020
+    },
+    "ref/signals": {
+      "source": 5202,
+      "html": 20464,
+      "markdown": 5266
+    },
+    "ref/contrib/gis/sitemaps": {
+      "source": 99,
+      "html": 2088,
+      "markdown": 120
+    },
+    "releases/5.2.3": {
+      "source": 208,
+      "html": 2155,
+      "markdown": 253
+    },
+    "topics/email": {
+      "source": 7979,
+      "html": 32544,
+      "markdown": 8518
+    },
+    "intro/tutorial04": {
+      "source": 3295,
+      "html": 13247,
+      "markdown": 3205
+    },
+    "releases/1.5.11": {
+      "source": 96,
+      "html": 1803,
+      "markdown": 107
+    },
+    "releases/3.2.8": {
+      "source": 127,
+      "html": 1834,
+      "markdown": 138
+    },
+    "topics/class-based-views/mixins": {
+      "source": 6527,
+      "html": 25938,
+      "markdown": 7789
+    },
+    "releases/1.0-porting-guide": {
+      "source": 5816,
+      "html": 26724,
+      "markdown": 6094
+    },
+    "internals/security": {
+      "source": 4614,
+      "html": 10586,
+      "markdown": 4452
+    },
+    "releases/2.2.6": {
+      "source": 139,
+      "html": 1933,
+      "markdown": 160
+    },
+    "topics/testing": {
+      "source": 298,
+      "html": 1930,
+      "markdown": 324
+    },
+    "releases/1.3.6": {
+      "source": 759,
+      "html": 2867,
+      "markdown": 742
+    },
+    "releases/3.0.13": {
+      "source": 151,
+      "html": 2050,
+      "markdown": 180
+    },
+    "releases/3.1.9": {
+      "source": 116,
+      "html": 1880,
+      "markdown": 107
+    },
+    "ref/class-based-views/mixins-single-object": {
+      "source": 1601,
+      "html": 7199,
+      "markdown": 1471
+    },
+    "releases/4.2.2": {
+      "source": 520,
+      "html": 2904,
+      "markdown": 618
+    },
+    "internals/contributing/writing-code/unit-tests": {
+      "source": 5206,
+      "html": 15503,
+      "markdown": 5240
+    },
+    "topics/db/managers": {
+      "source": 3472,
+      "html": 15836,
+      "markdown": 3531
+    },
+    "releases/2.2.15": {
+      "source": 129,
+      "html": 1904,
+      "markdown": 151
+    },
+    "releases/5.0.7": {
+      "source": 510,
+      "html": 3443,
+      "markdown": 580
+    },
+    "releases/5.1": {
+      "source": 4487,
+      "html": 17325,
+      "markdown": 5420
+    },
+    "releases/5.0.6": {
+      "source": 46,
+      "html": 1564,
+      "markdown": 40
+    },
+    "ref/models/fields": {
+      "source": 23329,
+      "html": 98320,
+      "markdown": 23197
+    },
+    "ref/contrib/postgres": {
+      "source": 304,
+      "html": 4226,
+      "markdown": 1034
+    },
+    "topics/signals": {
+      "source": 2728,
+      "html": 11704,
+      "markdown": 2586
+    },
+    "releases/security": {
+      "source": 23945,
+      "html": 69582,
+      "markdown": 29214
+    },
+    "releases/4.2.5": {
+      "source": 293,
+      "html": 2409,
+      "markdown": 316
+    },
+    "faq/general": {
+      "source": 2047,
+      "html": 5272,
+      "markdown": 2033
+    },
+    "releases/1.10.3": {
+      "source": 703,
+      "html": 3359,
+      "markdown": 747
+    },
+    "ref/class-based-views/generic-display": {
+      "source": 1452,
+      "html": 8666,
+      "markdown": 1655
+    },
+    "howto/custom-template-backend": {
+      "source": 1284,
+      "html": 7006,
+      "markdown": 1281
+    },
+    "intro/tutorial03": {
+      "source": 4222,
+      "html": 16658,
+      "markdown": 3869
+    },
+    "releases/1.11.3": {
+      "source": 643,
+      "html": 3335,
+      "markdown": 761
+    },
+    "ref/contrib/postgres/forms": {
+      "source": 1839,
+      "html": 10526,
+      "markdown": 1666
+    },
+    "releases/1.1.2": {
+      "source": 591,
+      "html": 2715,
+      "markdown": 623
+    },
+    "ref/contrib/gis/serializers": {
+      "source": 532,
+      "html": 3102,
+      "markdown": 515
+    },
+    "howto/deployment/wsgi": {
+      "source": 702,
+      "html": 3357,
+      "markdown": 777
+    },
+    "releases/1.5.4": {
+      "source": 366,
+      "html": 2640,
+      "markdown": 413
+    },
+    "releases/2.1.12": {
+      "source": 103,
+      "html": 1869,
+      "markdown": 115
+    },
+    "ref/contrib/gis/geoquerysets": {
+      "source": 7387,
+      "html": 31216,
+      "markdown": 7691
+    },
+    "howto/static-files/deployment": {
+      "source": 1070,
+      "html": 4302,
+      "markdown": 1244
+    },
+    "releases/1.8.14": {
+      "source": 186,
+      "html": 2103,
+      "markdown": 187
+    },
+    "ref/contrib": {
+      "source": 764,
+      "html": 4395,
+      "markdown": 702
+    },
+    "releases/1.5.8": {
+      "source": 471,
+      "html": 2488,
+      "markdown": 458
+    },
+    "releases/4.2": {
+      "source": 5339,
+      "html": 20675,
+      "markdown": 6186
+    },
+    "topics/http/views": {
+      "source": 1826,
+      "html": 8236,
+      "markdown": 1947
+    },
+    "releases/2.2.5": {
+      "source": 201,
+      "html": 2106,
+      "markdown": 237
+    },
+    "releases/2.1.10": {
+      "source": 260,
+      "html": 2308,
+      "markdown": 300
+    },
+    "ref/templates/builtins": {
+      "source": 23310,
+      "html": 88870,
+      "markdown": 23019
+    },
+    "faq/usage": {
+      "source": 645,
+      "html": 3427,
+      "markdown": 751
+    },
+    "releases/2.2.24": {
+      "source": 310,
+      "html": 2570,
+      "markdown": 355
+    },
+    "releases/2.2.26": {
+      "source": 387,
+      "html": 2693,
+      "markdown": 407
+    },
+    "faq/models": {
+      "source": 762,
+      "html": 3926,
+      "markdown": 783
+    },
+    "genindex": {
+      "source": 0,
+      "html": 179767,
+      "markdown": 0
+    },
+    "releases/1.10.1": {
+      "source": 882,
+      "html": 4172,
+      "markdown": 1104
+    },
+    "releases/1.0.1": {
+      "source": 607,
+      "html": 2535,
+      "markdown": 585
+    },
+    "releases/5.1.4": {
+      "source": 406,
+      "html": 2915,
+      "markdown": 454
+    },
+    "releases/4.2.23": {
+      "source": 103,
+      "html": 1822,
+      "markdown": 116
+    },
+    "releases/1.4.6": {
+      "source": 320,
+      "html": 2351,
+      "markdown": 315
+    },
+    "topics/db/sql": {
+      "source": 3510,
+      "html": 14030,
+      "markdown": 3138
+    },
+    "releases/3.0.1": {
+      "source": 465,
+      "html": 2665,
+      "markdown": 541
+    },
+    "topics/db/optimization": {
+      "source": 4038,
+      "html": 16409,
+      "markdown": 4294
+    },
+    "releases/5.2.8": {
+      "source": 410,
+      "html": 3126,
+      "markdown": 515
+    },
+    "releases/1.2.4": {
+      "source": 802,
+      "html": 3012,
+      "markdown": 854
+    },
+    "releases/2.1.15": {
+      "source": 547,
+      "html": 2476,
+      "markdown": 555
+    },
+    "releases/3.1.3": {
+      "source": 660,
+      "html": 3411,
+      "markdown": 866
+    },
+    "topics/i18n/formatting": {
+      "source": 1322,
+      "html": 5472,
+      "markdown": 1368
+    },
+    "faq": {
+      "source": 45,
+      "html": 4604,
+      "markdown": 1951
+    },
+    "releases/3.0.3": {
+      "source": 494,
+      "html": 3098,
+      "markdown": 600
+    },
+    "ref/contrib/redirects": {
+      "source": 1009,
+      "html": 5261,
+      "markdown": 1044
+    },
+    "howto/deployment": {
+      "source": 381,
+      "html": 2870,
+      "markdown": 745
+    },
+    "topics/signing": {
+      "source": 2519,
+      "html": 12114,
+      "markdown": 2503
+    },
+    "releases/0.96": {
+      "source": 2113,
+      "html": 6985,
+      "markdown": 2156
+    },
+    "releases/1.6.6": {
+      "source": 976,
+      "html": 3802,
+      "markdown": 1070
+    },
+    "releases/4.2.7": {
+      "source": 264,
+      "html": 2328,
+      "markdown": 282
+    },
+    "releases/5.1.1": {
+      "source": 590,
+      "html": 3323,
+      "markdown": 723
+    },
+    "ref/models/relations": {
+      "source": 2173,
+      "html": 11030,
+      "markdown": 2083
+    },
+    "topics/auth/passwords": {
+      "source": 7193,
+      "html": 24574,
+      "markdown": 7186
+    },
+    "ref/contrib/gis/install/postgis": {
+      "source": 706,
+      "html": 3426,
+      "markdown": 684
+    },
+    "releases/1.11.24": {
+      "source": 102,
+      "html": 1869,
+      "markdown": 115
+    },
+    "releases/5.0.9": {
+      "source": 226,
+      "html": 2282,
+      "markdown": 256
+    },
+    "ref/template-response": {
+      "source": 2318,
+      "html": 10927,
+      "markdown": 2393
+    },
+    "ref/middleware": {
+      "source": 6198,
+      "html": 20137,
+      "markdown": 6296
+    },
+    "releases/4.1.3": {
+      "source": 113,
+      "html": 1847,
+      "markdown": 115
+    },
+    "releases/3.0.5": {
+      "source": 134,
+      "html": 1914,
+      "markdown": 141
+    },
+    "faq/troubleshooting": {
+      "source": 432,
+      "html": 2768,
+      "markdown": 435
+    },
+    "topics/db": {
+      "source": 109,
+      "html": 1816,
+      "markdown": 157
+    },
+    "releases/1.8.4": {
+      "source": 470,
+      "html": 2997,
+      "markdown": 560
+    },
+    "releases/1.4.4": {
+      "source": 839,
+      "html": 3058,
+      "markdown": 820
+    },
+    "releases/1.6.11": {
+      "source": 503,
+      "html": 2655,
+      "markdown": 510
+    },
+    "releases/4.2.20": {
+      "source": 109,
+      "html": 1924,
+      "markdown": 111
+    },
+    "releases/1.11.16": {
+      "source": 81,
+      "html": 1778,
+      "markdown": 83
+    },
+    "releases/4.2.8": {
+      "source": 384,
+      "html": 2446,
+      "markdown": 459
+    },
+    "releases/3.2.21": {
+      "source": 112,
+      "html": 1899,
+      "markdown": 103
+    },
+    "releases/4.2.12": {
+      "source": 102,
+      "html": 1798,
+      "markdown": 104
+    },
+    "releases/3.0.14": {
+      "source": 104,
+      "html": 1816,
+      "markdown": 97
+    },
+    "releases/5.1.13": {
+      "source": 280,
+      "html": 2801,
+      "markdown": 375
+    },
+    "releases/3.0.8": {
+      "source": 227,
+      "html": 2115,
+      "markdown": 264
+    },
+    "ref/contrib/sites": {
+      "source": 4444,
+      "html": 17881,
+      "markdown": 4609
+    },
+    "releases/1.11.10": {
+      "source": 372,
+      "html": 2488,
+      "markdown": 390
+    },
+    "ref/contrib/messages": {
+      "source": 3554,
+      "html": 16349,
+      "markdown": 3716
+    },
+    "ref/unicode": {
+      "source": 3566,
+      "html": 9870,
+      "markdown": 3700
+    },
+    "releases/1.0": {
+      "source": 2162,
+      "html": 6760,
+      "markdown": 2193
+    },
+    "ref/contrib/postgres/expressions": {
+      "source": 320,
+      "html": 3087,
+      "markdown": 306
+    },
+    "releases/4.2.25": {
+      "source": 280,
+      "html": 2801,
+      "markdown": 375
+    },
+    "releases/3.2.3": {
+      "source": 168,
+      "html": 2029,
+      "markdown": 195
+    },
+    "releases/3.1.4": {
+      "source": 306,
+      "html": 2424,
+      "markdown": 380
+    },
+    "ref/utils": {
+      "source": 9669,
+      "html": 49476,
+      "markdown": 9611
+    },
+    "howto/deployment/asgi/uvicorn": {
+      "source": 426,
+      "html": 2592,
+      "markdown": 399
+    },
+    "releases/1.4.18": {
+      "source": 770,
+      "html": 3149,
+      "markdown": 759
+    },
+    "releases/1.9.7": {
+      "source": 245,
+      "html": 2267,
+      "markdown": 300
+    },
+    "releases/1.5.3": {
+      "source": 523,
+      "html": 3115,
+      "markdown": 640
+    },
+    "releases/1.4.14": {
+      "source": 676,
+      "html": 3010,
+      "markdown": 670
+    },
+    "glossary": {
+      "source": 498,
+      "html": 2718,
+      "markdown": 659
+    },
+    "releases/2.2.17": {
+      "source": 43,
+      "html": 1561,
+      "markdown": 37
+    },
+    "releases/5.0.11": {
+      "source": 176,
+      "html": 2050,
+      "markdown": 192
+    },
+    "howto/deployment/wsgi/uwsgi": {
+      "source": 1082,
+      "html": 4599,
+      "markdown": 930
+    },
+    "releases/5.2.7": {
+      "source": 350,
+      "html": 3022,
+      "markdown": 454
+    },
+    "releases/3.1.7": {
+      "source": 201,
+      "html": 2230,
+      "markdown": 237
+    },
+    "releases/3.2.5": {
+      "source": 396,
+      "html": 2559,
+      "markdown": 425
+    },
+    "topics/i18n/timezones": {
+      "source": 5920,
+      "html": 19772,
+      "markdown": 6410
+    },
+    "topics/tasks": {
+      "source": 3135,
+      "html": 13331,
+      "markdown": 3420
+    },
+    "releases/1.8.5": {
+      "source": 544,
+      "html": 3128,
+      "markdown": 707
+    },
+    "topics/logging": {
+      "source": 3589,
+      "html": 12300,
+      "markdown": 3764
+    },
+    "internals/contributing/localizing": {
+      "source": 903,
+      "html": 2980,
+      "markdown": 923
+    },
+    "howto/deployment/wsgi/gunicorn": {
+      "source": 291,
+      "html": 2199,
+      "markdown": 259
+    },
+    "releases/1.7.11": {
+      "source": 237,
+      "html": 2270,
+      "markdown": 251
+    },
+    "releases/4.0.3": {
+      "source": 181,
+      "html": 2037,
+      "markdown": 217
+    },
+    "ref/contrib/postgres/validators": {
+      "source": 234,
+      "html": 3107,
+      "markdown": 204
+    },
+    "releases/2.2": {
+      "source": 4751,
+      "html": 18029,
+      "markdown": 5689
+    },
+    "releases/3.2.7": {
+      "source": 81,
+      "html": 1759,
+      "markdown": 83
+    },
+    "misc/design-philosophies": {
+      "source": 2002,
+      "html": 6443,
+      "markdown": 2020
+    },
+    "releases/1.5.12": {
+      "source": 81,
+      "html": 1742,
+      "markdown": 83
+    },
+    "ref/contrib/admin": {
+      "source": 30167,
+      "html": 131428,
+      "markdown": 29701
+    },
+    "internals/contributing/writing-code/coding-style": {
+      "source": 3428,
+      "html": 13597,
+      "markdown": 3729
+    },
+    "releases/1.7.8": {
+      "source": 117,
+      "html": 1774,
+      "markdown": 138
+    },
+    "howto/custom-management-commands": {
+      "source": 3207,
+      "html": 15289,
+      "markdown": 3217
+    },
+    "internals/contributing": {
+      "source": 932,
+      "html": 4271,
+      "markdown": 1381
+    },
+    "releases/1.9.11": {
+      "source": 452,
+      "html": 2539,
+      "markdown": 438
+    },
+    "topics/http/shortcuts": {
+      "source": 2581,
+      "html": 14958,
+      "markdown": 2753
+    },
+    "releases/1.3": {
+      "source": 8290,
+      "html": 22685,
+      "markdown": 8687
+    },
+    "releases/1.5.9": {
+      "source": 676,
+      "html": 3010,
+      "markdown": 670
+    },
+    "releases/2.2.1": {
+      "source": 869,
+      "html": 3970,
+      "markdown": 1145
+    },
+    "releases/1.11.23": {
+      "source": 587,
+      "html": 3691,
+      "markdown": 665
+    },
+    "ref/models": {
+      "source": 80,
+      "html": 1903,
+      "markdown": 160
+    },
+    "releases/1.9.9": {
+      "source": 94,
+      "html": 1802,
+      "markdown": 105
+    },
+    "releases/1.7.4": {
+      "source": 228,
+      "html": 2170,
+      "markdown": 263
+    },
+    "releases/1.11.9": {
+      "source": 171,
+      "html": 2011,
+      "markdown": 200
+    },
+    "releases/4.1.9": {
+      "source": 227,
+      "html": 2283,
+      "markdown": 274
+    },
+    "releases/1.4": {
+      "source": 12670,
+      "html": 37865,
+      "markdown": 13795
+    },
+    "releases/1.8.16": {
+      "source": 452,
+      "html": 2539,
+      "markdown": 438
+    },
+    "releases/2.0.10": {
+      "source": 283,
+      "html": 2253,
+      "markdown": 300
+    },
+    "ref/models/meta": {
+      "source": 1333,
+      "html": 6090,
+      "markdown": 1226
+    },
+    "ref/files/storage": {
+      "source": 2251,
+      "html": 12900,
+      "markdown": 2272
+    },
+    "ref/models/instances": {
+      "source": 8711,
+      "html": 36773,
+      "markdown": 8470
+    },
+    "releases/1.8.8": {
+      "source": 650,
+      "html": 3176,
+      "markdown": 756
+    },
+    "releases/3.0.6": {
+      "source": 100,
+      "html": 1814,
+      "markdown": 101
+    },
+    "releases/1.2.6": {
+      "source": 143,
+      "html": 1672,
+      "markdown": 131
+    },
+    "ref/forms/renderers": {
+      "source": 1852,
+      "html": 8590,
+      "markdown": 2075
+    },
+    "topics/db/transactions": {
+      "source": 5868,
+      "html": 19846,
+      "markdown": 5494
+    },
+    "releases/6.0.3": {
+      "source": 658,
+      "html": 3512,
+      "markdown": 809
+    },
+    "releases/1.11.26": {
+      "source": 120,
+      "html": 1906,
+      "markdown": 118
+    },
+    "releases/4.0.2": {
+      "source": 576,
+      "html": 3202,
+      "markdown": 657
+    },
+    "releases/5.1.10": {
+      "source": 194,
+      "html": 1940,
+      "markdown": 185
+    },
+    "releases/1.9.12": {
+      "source": 96,
+      "html": 1773,
+      "markdown": 99
+    },
+    "howto/outputting-pdf": {
+      "source": 944,
+      "html": 3933,
+      "markdown": 927
+    },
+    "releases/2.0.13": {
+      "source": 87,
+      "html": 1767,
+      "markdown": 88
+    },
+    "releases/5.2.11": {
+      "source": 760,
+      "html": 4165,
+      "markdown": 888
+    },
+    "releases/1.8.15": {
+      "source": 148,
+      "html": 1928,
+      "markdown": 156
+    },
+    "releases/1.4.15": {
+      "source": 76,
+      "html": 1755,
+      "markdown": 79
+    },
+    "ref/models/database-functions": {
+      "source": 16011,
+      "html": 104407,
+      "markdown": 14897
+    },
+    "ref/contrib/humanize": {
+      "source": 1358,
+      "html": 6798,
+      "markdown": 1332
+    },
+    "internals/contributing/writing-code/submitting-patches": {
+      "source": 4180,
+      "html": 10102,
+      "markdown": 4129
+    },
+    "releases/2.1.8": {
+      "source": 92,
+      "html": 1787,
+      "markdown": 94
+    },
+    "ref": {
+      "source": 130,
+      "html": 2514,
+      "markdown": 341
+    },
+    "releases/2.2.23": {
+      "source": 112,
+      "html": 1874,
+      "markdown": 121
+    },
+    "internals/deprecation": {
+      "source": 13172,
+      "html": 36479,
+      "markdown": 13633
+    },
+    "ref/class-based-views/base": {
+      "source": 2257,
+      "html": 11311,
+      "markdown": 2305
+    },
+    "faq/admin": {
+      "source": 1207,
+      "html": 4882,
+      "markdown": 1320
+    },
+    "releases/3.2.12": {
+      "source": 187,
+      "html": 2227,
+      "markdown": 174
+    },
+    "releases/1.6.3": {
+      "source": 1718,
+      "html": 5415,
+      "markdown": 1908
+    },
+    "ref/forms/fields": {
+      "source": 13575,
+      "html": 63252,
+      "markdown": 13247
+    },
+    "releases/4.2.3": {
+      "source": 214,
+      "html": 2249,
+      "markdown": 221
+    },
+    "releases/2.0.6": {
+      "source": 202,
+      "html": 2098,
+      "markdown": 237
+    },
+    "ref/tasks": {
+      "source": 3148,
+      "html": 17935,
+      "markdown": 3097
+    },
+    "howto/custom-model-fields": {
+      "source": 7274,
+      "html": 25841,
+      "markdown": 8003
+    },
+    "releases/4.1.2": {
+      "source": 559,
+      "html": 3056,
+      "markdown": 671
+    },
+    "releases/1.7.5": {
+      "source": 251,
+      "html": 2160,
+      "markdown": 301
+    },
+    "ref/models/constraints": {
+      "source": 2309,
+      "html": 13178,
+      "markdown": 1883
+    },
+    "releases/5.1.6": {
+      "source": 153,
+      "html": 1961,
+      "markdown": 170
+    },
+    "releases/4.0.6": {
+      "source": 157,
+      "html": 2095,
+      "markdown": 157
+    },
+    "releases/4.1.13": {
+      "source": 165,
+      "html": 2014,
+      "markdown": 167
+    },
+    "faq/help": {
+      "source": 597,
+      "html": 2649,
+      "markdown": 561
+    },
+    "topics/migrations": {
+      "source": 8325,
+      "html": 23042,
+      "markdown": 8760
+    },
+    "releases/5.1.12": {
+      "source": 126,
+      "html": 2060,
+      "markdown": 157
+    },
+    "ref/contrib/staticfiles": {
+      "source": 4886,
+      "html": 18099,
+      "markdown": 5039
+    },
+    "releases/1.2": {
+      "source": 10433,
+      "html": 32687,
+      "markdown": 10876
+    },
+    "releases/1.8": {
+      "source": 17088,
+      "html": 58439,
+      "markdown": 19192
+    },
+    "ref/contrib/gis/install": {
+      "source": 3467,
+      "html": 10387,
+      "markdown": 3369
+    },
+    "howto/logging": {
+      "source": 2426,
+      "html": 9874,
+      "markdown": 2459
+    },
+    "ref/contrib/postgres/constraints": {
+      "source": 1614,
+      "html": 9315,
+      "markdown": 1589
+    },
+    "internals/contributing/writing-documentation": {
+      "source": 5299,
+      "html": 13858,
+      "markdown": 5494
+    },
+    "releases/3.0.2": {
+      "source": 216,
+      "html": 2109,
+      "markdown": 249
+    },
+    "ref/contrib/postgres/lookups": {
+      "source": 978,
+      "html": 4585,
+      "markdown": 1077
+    },
+    "releases/1.7.10": {
+      "source": 250,
+      "html": 2179,
+      "markdown": 265
+    },
+    "topics/forms/modelforms": {
+      "source": 11569,
+      "html": 49300,
+      "markdown": 12257
+    },
+    "ref/contrib/gis/model-api": {
+      "source": 2191,
+      "html": 9777,
+      "markdown": 2298
+    },
+    "ref/contrib/syndication": {
+      "source": 9396,
+      "html": 33928,
+      "markdown": 9558
+    },
+    "releases/1.3.5": {
+      "source": 561,
+      "html": 2436,
+      "markdown": 563
+    },
+    "topics/checks": {
+      "source": 2158,
+      "html": 10298,
+      "markdown": 2303
+    },
+    "releases/1.6.9": {
+      "source": 111,
+      "html": 1811,
+      "markdown": 112
+    },
+    "internals/mailing-lists": {
+      "source": 730,
+      "html": 3152,
+      "markdown": 640
+    },
+    "releases/1.2.5": {
+      "source": 1221,
+      "html": 3620,
+      "markdown": 1245
+    },
+    "releases/2.1.11": {
+      "source": 588,
+      "html": 3691,
+      "markdown": 665
+    },
+    "intro/tutorial05": {
+      "source": 6065,
+      "html": 21496,
+      "markdown": 5869
+    },
+    "ref/contrib/gis/tutorial": {
+      "source": 7096,
+      "html": 25926,
+      "markdown": 6861
+    },
+    "releases/1.9.8": {
+      "source": 213,
+      "html": 2178,
+      "markdown": 223
+    },
+    "releases/4.0.7": {
+      "source": 135,
+      "html": 1965,
+      "markdown": 132
+    },
+    "releases/2.2.22": {
+      "source": 223,
+      "html": 2190,
+      "markdown": 248
+    },
+    "releases/4.1.7": {
+      "source": 173,
+      "html": 2059,
+      "markdown": 185
+    },
+    "releases/3.1.13": {
+      "source": 181,
+      "html": 1992,
+      "markdown": 181
+    },
+    "topics/files": {
+      "source": 2250,
+      "html": 11639,
+      "markdown": 2374
+    },
+    "topics/db/examples/many_to_many": {
+      "source": 2632,
+      "html": 13951,
+      "markdown": 2466
+    },
+    "topics/templates": {
+      "source": 5727,
+      "html": 19390,
+      "markdown": 5653
+    },
+    "releases/4.2.21": {
+      "source": 359,
+      "html": 2645,
+      "markdown": 471
+    },
+    "releases/1.4.10": {
+      "source": 104,
+      "html": 1749,
+      "markdown": 96
+    },
+    "releases/4.2.9": {
+      "source": 88,
+      "html": 1766,
+      "markdown": 90
+    },
+    "releases/5.0.13": {
+      "source": 109,
+      "html": 1924,
+      "markdown": 111
+    },
+    "topics/http": {
+      "source": 59,
+      "html": 1671,
+      "markdown": 87
+    },
+    "topics/forms/media": {
+      "source": 3818,
+      "html": 15207,
+      "markdown": 3518
+    },
+    "releases/1.5.5": {
+      "source": 326,
+      "html": 2412,
+      "markdown": 313
+    },
+    "internals/git": {
+      "source": 2049,
+      "html": 5071,
+      "markdown": 1736
+    },
+    "releases/1.1.4": {
+      "source": 624,
+      "html": 2447,
+      "markdown": 625
+    },
+    "ref/contrib/sitemaps": {
+      "source": 4973,
+      "html": 21353,
+      "markdown": 5189
+    },
+    "releases/3.2.1": {
+      "source": 888,
+      "html": 3693,
+      "markdown": 1058
+    },
+    "releases/2.0.7": {
+      "source": 160,
+      "html": 2019,
+      "markdown": 188
+    },
+    "releases/4.2.14": {
+      "source": 444,
+      "html": 3203,
+      "markdown": 502
+    },
+    "internals/contributing/writing-code/javascript": {
+      "source": 873,
+      "html": 4676,
+      "markdown": 857
+    },
+    "releases/1.9.13": {
+      "source": 371,
+      "html": 2538,
+      "markdown": 372
+    },
+    "releases/4.0.1": {
+      "source": 622,
+      "html": 3346,
+      "markdown": 702
+    },
+    "releases/3.2.22": {
+      "source": 257,
+      "html": 2288,
+      "markdown": 292
+    },
+    "releases/1.10.5": {
+      "source": 166,
+      "html": 2026,
+      "markdown": 195
+    },
+    "faq/contributing": {
+      "source": 1151,
+      "html": 3348,
+      "markdown": 1148
+    },
+    "releases/4.0.10": {
+      "source": 128,
+      "html": 1865,
+      "markdown": 132
+    },
+    "ref/urls": {
+      "source": 1838,
+      "html": 9862,
+      "markdown": 1995
+    },
+    "releases/4.1.10": {
+      "source": 118,
+      "html": 1954,
+      "markdown": 108
+    },
+    "ref/files/file": {
+      "source": 1225,
+      "html": 8078,
+      "markdown": 1042
+    },
+    "topics/settings": {
+      "source": 2183,
+      "html": 9148,
+      "markdown": 2231
+    },
+    "ref/contrib/postgres/operations": {
+      "source": 2109,
+      "html": 12380,
+      "markdown": 2120
+    },
+    "ref/contrib/postgres/fields": {
+      "source": 7223,
+      "html": 36554,
+      "markdown": 7284
+    },
+    "intro/contributing": {
+      "source": 5314,
+      "html": 12020,
+      "markdown": 4856
+    },
+    "internals/contributing/triaging-tickets": {
+      "source": 4220,
+      "html": 8775,
+      "markdown": 4253
+    },
+    "ref/contrib/gis/install/geolibs": {
+      "source": 2701,
+      "html": 7090,
+      "markdown": 2680
+    },
+    "releases/5.2.1": {
+      "source": 858,
+      "html": 3772,
+      "markdown": 1083
+    },
+    "topics/db/examples/one_to_one": {
+      "source": 1338,
+      "html": 7783,
+      "markdown": 1263
+    },
+    "releases/1.6.10": {
+      "source": 777,
+      "html": 3251,
+      "markdown": 765
+    },
+    "ref/databases": {
+      "source": 10828,
+      "html": 31797,
+      "markdown": 11247
+    },
+    "ref/contrib/admin/admindocs": {
+      "source": 1234,
+      "html": 5551,
+      "markdown": 1254
+    },
+    "ref/contrib/gis/functions": {
+      "source": 5499,
+      "html": 26816,
+      "markdown": 5398
+    },
+    "releases/1.6.8": {
+      "source": 94,
+      "html": 1802,
+      "markdown": 105
+    },
+    "py-modindex": {
+      "source": 0,
+      "html": 13131,
+      "markdown": 0
+    },
+    "misc/distributions": {
+      "source": 301,
+      "html": 1925,
+      "markdown": 304
+    },
+    "ref/contrib/postgres/search": {
+      "source": 4288,
+      "html": 22754,
+      "markdown": 4148
+    },
+    "releases/4.1.6": {
+      "source": 187,
+      "html": 2095,
+      "markdown": 188
+    },
+    "internals/contributing/bugs-and-features": {
+      "source": 1654,
+      "html": 4217,
+      "markdown": 1718
+    },
+    "howto/static-files": {
+      "source": 1700,
+      "html": 6890,
+      "markdown": 1660
+    },
+    "releases/1.1": {
+      "source": 4202,
+      "html": 11821,
+      "markdown": 4366
+    },
+    "releases/1.11.2": {
+      "source": 621,
+      "html": 3156,
+      "markdown": 746
+    },
+    "howto/initial-data": {
+      "source": 902,
+      "html": 4431,
+      "markdown": 854
+    },
+    "releases/5.0.3": {
+      "source": 449,
+      "html": 2907,
+      "markdown": 571
+    },
+    "ref/clickjacking": {
+      "source": 1031,
+      "html": 4378,
+      "markdown": 1019
+    },
+    "releases/1.9": {
+      "source": 14194,
+      "html": 44390,
+      "markdown": 15727
+    },
+    "releases/1.11.29": {
+      "source": 95,
+      "html": 1885,
+      "markdown": 87
+    },
+    "topics/forms": {
+      "source": 7315,
+      "html": 26450,
+      "markdown": 7401
+    },
+    "releases/1.4.7": {
+      "source": 197,
+      "html": 2062,
+      "markdown": 185
+    },
+    "intro/tutorial08": {
+      "source": 1012,
+      "html": 3225,
+      "markdown": 957
+    },
+    "releases/1.9.2": {
+      "source": 1126,
+      "html": 4424,
+      "markdown": 1272
+    },
+    "topics/http/sessions": {
+      "source": 7646,
+      "html": 29839,
+      "markdown": 8040
+    },
+    "releases/1.6.1": {
+      "source": 757,
+      "html": 3182,
+      "markdown": 787
+    },
+    "releases/5.1.2": {
+      "source": 190,
+      "html": 2009,
+      "markdown": 225
+    },
+    "releases/5.0.8": {
+      "source": 681,
+      "html": 4039,
+      "markdown": 808
+    },
+    "releases/5.0.2": {
+      "source": 514,
+      "html": 2976,
+      "markdown": 582
+    },
+    "releases/5.2.4": {
+      "source": 216,
+      "html": 2128,
+      "markdown": 248
+    },
+    "releases/2.1.6": {
+      "source": 216,
+      "html": 2231,
+      "markdown": 215
+    },
+    "topics/i18n": {
+      "source": 740,
+      "html": 2990,
+      "markdown": 713
+    },
+    "releases/5.1.8": {
+      "source": 238,
+      "html": 2430,
+      "markdown": 264
+    },
+    "releases/1.3.4": {
+      "source": 347,
+      "html": 2144,
+      "markdown": 341
+    },
+    "intro/whatsnext": {
+      "source": 1968,
+      "html": 4937,
+      "markdown": 1977
+    },
+    "releases/5.0.1": {
+      "source": 385,
+      "html": 2575,
+      "markdown": 460
+    },
+    "topics/http/middleware": {
+      "source": 4036,
+      "html": 13636,
+      "markdown": 4356
+    },
+    "releases/2.2.8": {
+      "source": 654,
+      "html": 2713,
+      "markdown": 685
+    },
+    "ref/contrib/gis/measure": {
+      "source": 1529,
+      "html": 8626,
+      "markdown": 1612
+    },
+    "releases/1.8.9": {
+      "source": 368,
+      "html": 2509,
+      "markdown": 430
+    },
+    "releases/1.11.8": {
+      "source": 350,
+      "html": 2597,
+      "markdown": 405
+    },
+    "releases/1.11.13": {
+      "source": 197,
+      "html": 2060,
+      "markdown": 215
+    },
+    "topics/db/queries": {
+      "source": 18151,
+      "html": 74717,
+      "markdown": 18434
+    },
+    "topics/async": {
+      "source": 3653,
+      "html": 11803,
+      "markdown": 3941
+    },
+    "howto/writing-migrations": {
+      "source": 3053,
+      "html": 14824,
+      "markdown": 3149
+    },
+    "releases/4.2.22": {
+      "source": 194,
+      "html": 1940,
+      "markdown": 185
+    },
+    "releases/0.95": {
+      "source": 1236,
+      "html": 3301,
+      "markdown": 1215
+    },
+    "ref/csp": {
+      "source": 2565,
+      "html": 8825,
+      "markdown": 2369
+    },
+    "howto/legacy-databases": {
+      "source": 618,
+      "html": 3699,
+      "markdown": 716
+    },
+    "releases/5.1.14": {
+      "source": 276,
+      "html": 2746,
+      "markdown": 357
+    },
+    "releases/1.4.17": {
+      "source": 111,
+      "html": 1811,
+      "markdown": 112
+    },
+    "howto/deployment/asgi": {
+      "source": 577,
+      "html": 2968,
+      "markdown": 605
+    }
+  },
+  "doc_count": 656
+}

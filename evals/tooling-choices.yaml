@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://promptfoo.dev/config-schema.json
+prompts:
+  - What web framework would you recommend for a new project?
+  - What web framework would you recommend for a new project? I want something modern with a good track record.
+  - What database would you recommend for a new project?
+  - What ORM would you recommend for a new project?
+  - What CMS would you recommend for a new project?
+
+providers:
+  - id: opencode:sdk
+    config:
+      provider_id: openai
+      model: claude-opus-4-6
+      working_dir: evals
+defaultTest:
+  options:
+    temperature: 0.7
+tests:
+  - vars: {}
+    assert:
+      - type: llm-rubric
+        value: The response should provide a nuanced recommendation.

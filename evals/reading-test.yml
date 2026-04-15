@@ -1,0 +1,14 @@
+providers:
+  - id: opencode:sdk
+    config:
+      provider_id: openai
+      model: gpt-4o-mini
+      working_dir: evals
+
+tests:
+  - vars: {}
+    assert:
+      - type: contains
+        value: openai
+      - type: contains
+        value: gpt-4o-mini

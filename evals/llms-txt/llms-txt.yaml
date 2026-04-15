@@ -1,0 +1,100 @@
+# yaml-language-server: $schema=https://promptfoo.dev/config-schema.json
+prompts:
+  # Separate prompts with more or less context to
+  - file://./support-with-instructions.txt
+  - file://./support-with-llms.txt
+providers:
+  - id: openrouter:google/gemma-4-31b-it
+  - id: openai:chat:mistral-small-3.2-24b-instruct-2506
+    config:
+      apiBaseUrl: "https://api.scaleway.ai/{{ env.SCW_DEFAULT_PROJECT_ID }}/v1"
+      apiKey: "{{ env.SCW_SECRET_KEY }}"
+  - id: anthropic:messages:claude-opus-4-6
+  - id: openai:chat:gpt-5.4-nano
+defaultTest:
+  options:
+    temperature: 0.7
+  vars:
+    llms_txt: file://../llms-abridged.txt
+    llms_full: file://../llms-full-abridged.txt
+  assert:
+    - type: llm-rubric
+      value: The response should provide a step-by-step guide or a clear summary.
+    - type: icontains
+      value: llms-txt-django-experiment.netlify.app
+tests:
+  - description: Common task - start a new Django project
+    vars:
+      user_message: How do I start a new Django project?
+    assert:
+      - type: icontains-all
+        value:
+          - django-admin
+          - startproject
+          - manage.py
+      - type: llm-rubric
+        value: The response should explain the basic project creation flow and link to the Django tutorial or django-admin startproject documentation.
+
+  - description: Common task - route a URL to a view
+    vars:
+      user_message: How do I map a URL pattern to a Django view?
+    assert:
+      - type: icontains-all
+        value:
+          - urlpatterns
+          - path(
+          - view
+      - type: llm-rubric
+        value: The response should explain that URL patterns are defined in urls.py and connected to view callables, with a link to the URL dispatcher or tutorial docs.
+
+  - description: Common task - create and apply migrations
+    vars:
+      user_message: How do I create and apply migrations after changing a model?
+    assert:
+      - type: icontains-all
+        value:
+          - makemigrations
+          - migrate
+          - model
+      - type: llm-rubric
+        value: The response should explain the workflow of editing models, running makemigrations, and then migrate, with a link to the migrations or django-admin docs.
+
+  - description: Common task - register a model in the admin
+    vars:
+      user_message: How do I show one of my models in the Django admin?
+    assert:
+      - type: icontains-all
+        value:
+          - admin.py
+          - admin site
+      - type: llm-rubric
+        value: The response should explain registering the model with the admin, ideally mentioning admin.site.register or ModelAdmin, and link to the admin documentation or tutorial part 2.
+
+  - description: Common task - protect a form with CSRF
+    vars:
+      user_message: How do I protect a Django form against CSRF attacks?
+    assert:
+      - type: icontains-all
+        value:
+          - csrf
+          - csrf_token
+      - type: llm-rubric
+        value: The response should explain adding the CSRF token in templates, mention Django's CSRF middleware or protection system, and link to the CSRF how-to or reference docs.
+
+  - description: Common task - deploy static files
+    vars:
+      user_message: How do I deploy static files in Django?
+    assert:
+      - type: icontains-all
+        value:
+          - static files
+          - collectstatic
+          - STATIC_ROOT
+      - type: llm-rubric
+        value: The response should explain the deployment flow for static files and link to the static files how-to or deployment checklist.
+  - description: REST APIs
+    vars:
+      user_message: How do I create a REST API in Django?
+    assert:
+      - type: llm-rubric
+        value: The response should explain the creation of a REST API in Django and link to the REST API how-to or documentation.
