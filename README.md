@@ -4,6 +4,7 @@ URL: [wagtail.org/django-ai](https://wagtail.org/ai-django/)
 
 - Wagtail survey: [AI and Developer Experience: Wagtail community survey](https://wagtail.org/blog/ai-and-developer-experience-wagtail-community-survey/)
 - Tomorrow’s workshop [on Django and AI](https://2026.djangocon.eu/speakers/JUFWZE/) - our question: [What themes would you like to discuss around Django and AI?](https://obwob.app/q1tghd3m/)
+- Sprints: [Django AI research working group](https://github.com/django/dsf-working-groups/blob/main/active/ai.md)
 
 ## Links
 
